@@ -1,1 +1,1 @@
-# AA-Random-Card-Generator
+requires java
